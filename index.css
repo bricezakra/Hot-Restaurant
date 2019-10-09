@@ -10,7 +10,13 @@
 }
 
 .jumbotron {
-    align-content: center;
+    align-items: center;
  }
+ 
+.btn-primary {
+    background-color: blue !important;
+}
 
-
+.btn-secondary {
+    background-color: red !important;
+}
