@@ -8,10 +8,16 @@ background-size: cover;
 
 .jumbotron {
     align-items: center;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
  }
  
 .btn-primary {
     background-color: blue !important;
+    margin-bottom: 10px;
 }
 
 .btn-secondary {

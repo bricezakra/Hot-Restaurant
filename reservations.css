@@ -1,0 +1,17 @@
+.container-fluid {
+    background-image: url("Images/87440625-food-frame-with-set-of-japanese-food-on-dark-background-sushi-rolls-nigiri-raw-salmon-steak-rice-and.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button-addon2 {
+    background-color: blue;
+    color: white;
+    margin-left: 1300px;
+}
+
+.search {
+    margin-top: 250px;
+    width: 50%;
+}
