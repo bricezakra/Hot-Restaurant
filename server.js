@@ -8,6 +8,7 @@ app.use(express.static("public"))
 var reserved = [];
 var waiting = [];
 app.get("/", function(req, res) {
+    res.end('Hello');
     res.sendFile(path.join(__dirname, "/public/index.html"));
 })
 app.listen(PORT, function() {
